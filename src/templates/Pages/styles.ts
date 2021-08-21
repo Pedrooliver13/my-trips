@@ -16,6 +16,7 @@ export const Heading = styled.h1`
 `;
 export const Body = styled.div`
   p {
-    font-size: var(--medium);
+    font-size: var(--small);
+    word-break: break-word;
   }
 `;
